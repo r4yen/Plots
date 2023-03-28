@@ -1,0 +1,4 @@
+name: Plots
+version: '${project.version}'
+main: plots.plots.Plots
+api-version: 1.13
